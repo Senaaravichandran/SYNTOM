@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff88,100:00ccff&height=200&section=header&text=SYNTOM&fontSize=90&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Quantum%20Anyonic%20Time-Dilated%20Encryption&descAlignY=60&descColor=ffffff&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff88,100:00ccff&height=200&section=header&text=SYNTOM&fontSize=90&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Neurowave%20Cryption%20using%20Quantum%20Anyonic%20Time-Dilated%20Key%20Exchange&descAlignY=60&descColor=ffffff&descSize=20" width="100%"/>
 
 <!-- Badges -->
 <p align="center">
